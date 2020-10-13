@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#header{
+    width: 100%;
+    text-align: center;
+    background: #333;
+    color: #fff;
+}
+#header h2{
+    padding: 15px;
+}
+.text{
+    color: #333;
+    background: #fff;
+}
+.text p{
+    padding: 15px;
+    text-align: center;
+    justify-content: center;
+}
